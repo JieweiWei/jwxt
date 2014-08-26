@@ -1,0 +1,21 @@
+[
+    {
+        'xnd': str，  # 学期
+        'xf': str，   # 学分 3
+        'jxbmc': str, # 教务班名称
+        'kcmc': str,  # 课程名称 1
+        'zzcj': str,  # 最终成绩 4
+        'zpcj': str,  # 总评成绩
+        'jd': str,    # 绩点 5
+        'jsxm': str,  # 教师姓名 2
+        'jxbpm': str, # 教学班排名 eg: "18V40" 6
+    }, {}, {}
+]
+
+[
+    [
+        str,  # 类型
+        str,  # GBA
+        str,  # 学分 eg: 24/33
+    ]
+]
